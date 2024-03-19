@@ -1,0 +1,2 @@
+# Jpquerytech
+wordpres theme 
